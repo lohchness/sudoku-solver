@@ -1,5 +1,7 @@
 # sudoku-solver
 
+Sudoku assistant to help people solve easy-difficulty sudoku puzzles. 
+
 # Introduction
 
 The goal of Sudoku is to complete a square grid of 9x9 cells using the numbers from 1 to 9, in a way that has exactly one instance of each digit appearing in each column, row and 3x3 sub-square. For example in Figure 1, the cell marked with the red circle must be a "7" since every other possible value appears in at least one of the three sets (row, purple; column, blue; and sub-square, green) that cell is a member of. All the other cells in the example can be determined using the same strategy.
